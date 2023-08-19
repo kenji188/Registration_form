@@ -1,0 +1,84 @@
+#header{
+    position: relative;
+    text-align: center;
+    color: #f4f4f4;
+}
+body{
+    background-color: #1C2541;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serifl;
+}
+p{
+    text-align: center;
+    color: #f4f4f4;
+    font-size: 16px;
+    
+}
+.form{
+    max-width: fit-content;
+    margin: 10px auto;
+    padding: 30rem;
+    justify-content: center;
+    margin: 10px;
+}
+fieldset{
+    max-width: 50%;
+    position: relative;
+    padding: 100px;
+    margin: auto;
+    width: 25%;
+    border: 5px solid #000;
+    bottom: 970px;
+    padding-bottom: 150px;
+    background-color: #3A506B;
+    color: #f4f4f4;
+}
+.name{
+    text-align: left;
+    padding: 0 10px;
+}
+.Email{
+    text-align: left;
+    padding: 0 10px;
+}
+.Age{
+    text-align: left;
+    padding: 0 10px;
+}
+.question1{
+    text-align: left;
+    padding: 0 10px;
+}
+.question2{
+    text-align: left;
+    padding: 0 0px;
+}
+.style{
+    font-size: 20px;
+    font-weight: 650;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+input[type="text"]{
+    width: 100%;
+    border-radius: 25px;
+}
+input[type="Email"]{
+    width: 100%;
+    border-radius: 25px;
+}
+input[type="number"]{
+    width: 100%;
+    border-radius: 25px;
+}
+input[type="radio"]{
+    border: 0px;
+    width: 20px;
+}
+#bio{
+    border-radius: 10px;
+}
