@@ -27,12 +27,13 @@ p{
 fieldset{
     max-width: 50%;
     position: relative;
-    padding: 100px;
+    padding: 70px;
     margin: auto;
     width: 25%;
     border: 5px solid #000;
+    border-radius: 20px;
     bottom: 970px;
-    padding-bottom: 150px;
+    padding-bottom: 70px;
     background-color: #3A506B;
     color: #f4f4f4;
 }
