@@ -7,5 +7,5 @@
 <br> <!-- Add this line to create a line break -->
 <br> <!-- Add this line to create a line break -->
 
-![image](https://github.com/kenji188/Registration_form/assets/134233789/0d45805f-b40d-4b87-95a6-b9ec0a646a3c)
+![image](https://github.com/kenji188/Registration_form/assets/134233789/ab85a942-8060-4cec-ae4b-fbbcf413ddac)
 
